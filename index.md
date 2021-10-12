@@ -5,12 +5,12 @@ navigation_weight: 1
 ---
 
 ### B.Sc. (Computational) Linguistics - LIN-BS-070 - Winter 21/22
-# Seminar: Mathematical Foundations of Language Modeling
+# Seminar: Mathematical Foundations of Language Modelling
 
 |-------------:|---------------------------|
 | :woman_teacher:   | [Brielen Madureira](<https://www.ling.uni-potsdam.de/~madureiralasota/>)   |
 | :date: | Online, Wednesdays at 12:00 |
-| :hourglass: | 04.11.2020 - 10.02.2021 |
+| :hourglass: | 27.10.2021 - 16.02.2022 |
 | :computer:| [Moodle page, course MathLM id 29573](<https://moodle2.uni-potsdam.de/course/view.php?id=29573>) |
 | :e-mail:  |  madureiralasota at uni-potsdam dot de |
 
@@ -52,8 +52,10 @@ Everyone is welcome to take this class. Good knowledge of Python is required
 for the assignments. If you are in doubt, contact me :)
 
 ## Requirements and grading policy
+
 To pass the course:
 - active participation (taking part on group discussions and handing in worksheets)
+
 To pass the module:
 - final project
 

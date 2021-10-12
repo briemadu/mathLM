@@ -7,3 +7,9 @@ navigation_weight: 2
 
 Each meeting will have a reading/watching list that I will also post on Moodle
 in advance. All works used in the course will also be listed here.
+
+### Weekly Reading List
+
+**Introduction**
+
+1.

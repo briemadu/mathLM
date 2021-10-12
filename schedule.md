@@ -24,11 +24,4 @@ navigation_weight: 3
 | 12 |02.02.2022 | Cognitive, Linguistic and Ethical aspects of LMs |
 | 13 |09.02.2022 | Programming Practice |
 | 14 |16.02.2022 | Modern Language Models and Wrap-up |
-
-
-## Weekly Reading List
-
-**Introduction**
-
-1. COHEN, Paul R.; HOWE, Adele E. How evaluation guides AI research: The message still counts more than the medium. AI magazine, v. 9, n. 4, p. 35-35, 1988. [link](https://doi.org/10.1609/aimag.v9i4.952)
-2. KING, Margaret. Evaluating natural language processing systems. Communications of the ACM, v. 39, n. 1, p. 73-79, 1996. [link](https://dl.acm.org/doi/abs/10.1145/234173.234208?casa_token=8KZTFYtxcXoAAAAA:x71qSj6riN8FnypzsDWZ3n8qIV8b0C5H14ToxWdQlLAYMqbWytVdAxmELv0QhyvuYfgCFFHhcYK_)
+ 
