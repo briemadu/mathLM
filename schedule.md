@@ -18,10 +18,9 @@ navigation_weight: 3
 | 7 |15.12.2021 | Programming Practice |
 | Break |  |  |   
 | 8 |05.01.2022 | Crash Course on Linear Algebra |  
-| 9 |12.01.2022 | Crash Course on Machine Learning |  
+| 9 |12.01.2022 | Crash Course on Neural Networks |  
 | 10 |19.01.2022 | Neural Language Models |
 | 11 |26.01.2022 | Programming Practice |  
 | 12 |02.02.2022 | Cognitive, Linguistic and Ethical aspects of LMs |
 | 13 |09.02.2022 | Programming Practice |
 | 14 |16.02.2022 | Modern Language Models and Wrap-up |
- 

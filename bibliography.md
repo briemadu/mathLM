@@ -10,6 +10,10 @@ in advance. All works used in the course will also be listed here.
 
 ### Weekly Reading List
 
-**Introduction**
+**Week 0 - Introduction**
+
+1. HAYES, Brian et al. First links in the Markov chain. American Scientist, v. 101, n. 2, p. 252, 2013.
+
+**Week 1 - Probability**
 
 1.
