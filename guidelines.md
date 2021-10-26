@@ -10,7 +10,7 @@ Here are the detailed guidelines for this seminar. Please read them carefully.
 
 On our first meeting on Oct 27, I will introduce and motivate the topic in a
 live session and we'll get to know each other. Then we'll alternate among
-three types of meetings:
+three types of lessons:
 
 - crash courses: to learn the mathematical foundations
 - content: to apply the mathematical content to language modelling

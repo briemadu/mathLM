@@ -11,8 +11,8 @@ navigation_weight: 3
 | 0 |27.10.2021 | Introduction |
 | 1 |03.11.2021 | Crash Course on Probability |
 | 2 |10.11.2021 | Statistical Language Models |
-| 3 |17.11.2021 | Programming Practice |
-| 4 |24.11.2021 | Smoothing Techniques |
+| 3 |17.11.2021 | Smoothing Techniques |
+| 4 |24.11.2021 | Programming Practice  |
 | 5 |01.12.2021 | Crash course on Information Theory |
 | 6 |08.12.2021 | Evaluating Language Models |
 | 7 |15.12.2021 | Programming Practice |
