@@ -37,10 +37,16 @@ limitations.
 
 ## Format
 
-TBD.
+We'll mostly follow a flipped classroom concept. You'll work through the
+reading/watch list on your own during the week and join the meetings to
+work in groups on worksheets and assignments.
 
-The course will be taught in English, but you can present and submit your
-assignments and the project in German if you prefer.
+As long as the regulations allow, those who can may attend in person and those
+who cannot / do not wish to come in person can attend online, although the
+online experience may be limited.
+
+The course will be taught in English, but you can discuss, present and submit
+your assignments and the project in German if you prefer.
 
 **Please, check the guidelines and the schedule for more details.**
 Note that this page is meant only to present the course, but we'll use Moodle
