@@ -60,7 +60,7 @@ for the assignments. If you are in doubt, contact me :)
 ## Requirements and grading policy
 
 To pass the course:
-- active participation (taking part on group discussions and handing in worksheets)
+- active participation (taking part on group discussions and handing in worksheets, documentation and assignments)
 
 To pass the module:
 - final project
