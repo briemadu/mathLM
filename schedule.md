@@ -17,7 +17,7 @@ navigation_weight: 3
 | 6 |08.12.2021 | Evaluating Language Models |
 | 7 |15.12.2021 | Programming Practice |
 | Break |  |  |   
-| 8 |05.01.2022 | Crash Course on Linear Algebra |  
+| 8 |05.01.2022 | Crash Course on Linear Algebra and Vector Semantics |  
 | 9 |12.01.2022 | Crash Course on Neural Networks |  
 | 10 |19.01.2022 | Neural Language Models |
 | 11 |26.01.2022 | Programming Practice |  
