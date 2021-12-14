@@ -30,7 +30,7 @@ to solve an exercise sheet or a short programming assignment. I will also use
 part of the time to give feedback about the previous week and help you with
 your questions.
 
-You must upload your solutions on Moodle by the following Sunday at 23:59.
+You must upload your solutions on Moodle by the following Monday at 23:59.
 
 **Come to class prepared**, i.e., watch the videos / read the
 material **before** our meeting.
@@ -46,7 +46,7 @@ requirements to pass the course.***
 
 1. Wednesday at 12:00: meeting + worksheet/assignment released
 2. Wednesday at 14:00: next reading/watching list released
-3. Sunday at 23:59: worksheet/assignment due (upload on Moodle)
+3. Monday at 23:59: worksheet/assignment due (upload on Moodle)
 4. following Wednesday at 10:00: documentation due (form on Moodle)
 
 # Final project
